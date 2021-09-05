@@ -1,0 +1,9 @@
+[submodule "data_access"]
+	path = data_access
+	url = https://github.com/Lulla-App/data_access.git
+[submodule "api_integrations"]
+	path = api_integrations
+	url = https://github.com/Lulla-App/api_integrations.git
+[submodule "glue"]
+	path = glue
+	url = https://github.com/Lulla-App/glue.git
